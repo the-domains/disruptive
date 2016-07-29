@@ -1,4 +1,6 @@
 typography_spectrum: 0.24484188784845173
+content_rating:
+  adult: false
 color:
   brandStrength: 0.4792484899517149
   lightness: 0.9096378604881465
@@ -14,5 +16,5 @@ layout_spectrum: 0.885318472282961
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01623797-a9bc-481b-8674-ab8449264fac.png
 name: Disruptive
-title: 'Disruptive Media '
+title: Disrupting the Status Quo
 description: Disrupting The Status Quo
