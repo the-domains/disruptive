@@ -1,4 +1,3 @@
-layout_spectrum: 0.885318472282961
 typography_spectrum: 0.24484188784845173
 color:
   brandStrength: 0.4792484899517149
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.885318472282961
 name: Disruptive
+title: 'Disruptive Media '
 description: Disrupting The Status Quo
